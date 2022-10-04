@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1635788607 source:/home/sam/Desktop/myfiles/Programmation/smTest/main.cpp
+	<iostream>
+	<tgmath.h>
+	<vector>
+	<cassert>
+	"helper.h"
+	"seam.h"
+
+1635787643 /home/sam/Desktop/myfiles/Programmation/smTest/helper.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	"seam_types.h"
+
+1635787643 /home/sam/Desktop/myfiles/Programmation/smTest/seam_types.h
+	<string>
+	<vector>
+
+1635787643 /home/sam/Desktop/myfiles/Programmation/smTest/seam.h
+	<vector>
+	<limits>
+	"seam_types.h"
+
+1635787643 source:/home/sam/Desktop/myfiles/Programmation/smTest/seam.cpp
+	<vector>
+	<limits>
+	<cassert>
+	<tgmath.h>
+	"seam.h"
+
+1635787643 source:/home/sam/Desktop/myfiles/Programmation/smTest/helper.cpp
+	"helper.h"
+	"stb_image_write.h"
+	"stb_image.h"
+
+1635788508 /home/sam/Desktop/myfiles/Programmation/smTest/stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1635788508 /home/sam/Desktop/myfiles/Programmation/smTest/stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
