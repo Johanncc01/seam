@@ -1,18 +1,13 @@
 README - CLAUSEN JOHNN - GALHAUD VICTOR
 
 
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-⚠️⚠️⚠️																			⚠️⚠️⚠️
-⚠️⚠️⚠️     If the program doesn't work, you'll need to change the struct "Node" to modify 'double distance_to_target' and 'double costs' into : 		⚠️⚠️⚠️
-⚠️⚠️⚠️	  		 'long double distance_to_target' and 'long double costs';									⚠️⚠️⚠️
-⚠️⚠️⚠️																			⚠️⚠️⚠️
-⚠️⚠️⚠️							This problem happens on windowsOS								⚠️⚠️⚠️
-⚠️⚠️⚠️																			⚠️⚠️⚠️
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️ If the program doesn't work, you'll need to change the struct "Node" to modify 'double distance_to_target' and 'double costs' into : 'long double distance_to_target' and 'long double costs'				
+This problem happens on windowsOS								
+																			
 
+Extensions:
 
 1) Getcol, getrow, getid used in the part 3 (create graph). We chose to modularize our program. This functions are really helpful to make part 3 shorter and easier to understand.
-
 
 2) Horizontal application of the algorithm : 
 
